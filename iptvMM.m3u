@@ -1,0 +1,336 @@
+#EXTM3U
+#EXTINF:-1,A&E HD
+http://190.61.57.2:1010/play/a017/index.m3u8
+
+#EXTINF:-1,AMC HD
+http://190.61.57.2:1010/play/a023/index.m3u8
+
+#EXTINF:-1,AXN HD
+http://190.61.57.2:1010/play/a01a/index.m3u8
+
+#EXTINF:-1,CNN español
+http://190.61.57.2:1010/play/a04o/index.m3u8
+
+#EXTINF:-1,CableNoticias
+http://190.61.57.2:1010/play/a04e/index.m3u8
+
+#EXTINF:-1,Caracol
+http://190.61.57.2:1010/play/a04z/index.m3u8
+
+#EXTINF:-1,Caracol HD
+http://190.61.57.2:1010/play/a02j/index.m3u8
+
+#EXTINF:-1,Cinecanal HD
+http://190.61.57.2:1010/play/a046/index.m3u8
+
+#EXTINF:-1,Cinemax
+http://190.61.57.2:1010/play/a04v/index.m3u8
+
+#EXTINF:-1,Cinemax HD
+http://190.61.57.2:1010/play/a01r/index.m3u8
+
+#EXTINF:-1,CityTv
+http://190.61.57.2:1010/play/a04l/index.m3u8
+
+#EXTINF:-1,Comedy Central HD
+http://190.61.57.2:1010/play/a01s/index.m3u8
+
+#EXTINF:-1,Discovery H&H HD
+http://190.61.57.2:1010/play/a01x/index.m3u8
+
+#EXTINF:-1,Disovery HD
+http://190.61.57.2:1010/play/a02t/index.m3u8
+
+#EXTINF:-1,Discovery Theater HD
+http://190.61.57.2:1010/play/a01y/index.m3u8
+
+#EXTINF:-1,Discovery world HD
+http://190.61.57.2:1010/play/a044/index.m3u8
+
+#EXTINF:-1,E! HD
+http://190.61.57.2:1010/play/a02d/index.m3u8
+
+#EXTINF:-1,ESPN 2 HD
+http://190.61.57.2:1010/play/a01d/index.m3u8
+
+#EXTINF:-1,ESPN 3 HD
+http://190.61.57.2:1010/play/a01n/index.m3u8
+
+#EXTVLCOPT:http-user-agent=iPhone
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+
+#EXTINF:-1,ESPN 4 HD
+http://190.61.57.2:1010/play/a020/index.m3u8
+
+#EXTINF:-1,ESPN EXTRA HD
+http://190.61.57.2:1010/play/a031/index.m3u8
+
+#EXTINF:-1,ESPN HD
+http://190.61.57.2:1010/play/a02c/index.m3u8
+
+#EXTINF:-1,El Gourmet HF
+http://190.61.57.2:1010/play/a01v/index.m3u8
+
+#EXTINF:-1,Fox sports 2 Hd
+http://190.61.57.2:1010/play/a032/index.m3u8
+
+#EXTINF:-1,FX HD
+http://190.61.57.2:1010/play/a021/index.m3u8
+
+#EXTINF:-1,Fox Sports 1 HD
+http://190.61.57.2:1010/play/a04i/index.m3u8
+
+#EXTINF:-1,Fox Sports 3
+http://190.61.57.2:1010/play/a01o/index.m3u8
+
+#EXTINF:-1,France 24 HD
+http://190.61.57.2:1010/play/a040/index.m3u8
+
+#EXTINF:-1,Golden HD
+http://190.61.57.2:1010/play/a02b/index.m3u8
+
+#EXTINF:-1,NTN 24hrs
+http://190.61.57.2:1010/play/a04h/index.m3u8
+
+#EXTINF:-1,Nat Geo HD
+http://190.61.57.2:1010/play/a043/index.m3u8
+
+#EXTINF:-1,Nick HD
+http://190.61.57.2:1010/play/a01h/index.m3u8
+
+#EXTINF:-1,Paramounth HD
+http://190.61.57.2:1010/play/a026/index.m3u8
+
+#EXTINF:-1,Pasiones
+http://190.61.57.2:1010/play/a047/index.m3u8
+
+#EXTINF:-1,RCN HD
+http://190.61.57.2:1010/play/a022/index.m3u8
+
+#EXTINF:-1,RCN SSD
+http://190.61.57.2:1010/play/a03b/index.m3u8
+
+#EXTINF:-1,STAR CHANEL HD
+http://190.61.57.2:1010/play/a02r/index.m3u8
+
+#EXTINF:-1,Señal Colombia
+http://190.61.57.2:1010/play/a02a/index.m3u8
+
+#EXTINF:-1,Sony HD
+http://190.61.57.2:1010/play/a018/index.m3u8
+
+#EXTINF:-1,Space Hd
+http://190.61.57.2:1010/play/a01b/index.m3u8
+
+Studio Universal Hd
+http://190.61.57.2:1010/play/a027/index.m3u8
+
+#EXTINF:-1,TELEMUNDO
+http://190.61.57.2:1010/play/a04u/index.m3u8
+
+#EXTINF:-1,TELENOVELAS
+http://190.61.57.2:1010/play/a04t/index.m3u8
+
+#EXTINF:-1,TNT HD
+http://190.61.57.2:1010/play/a01m/index.m3u8
+
+#EXTINF:-1,TNT Series Hd
+http://190.61.57.2:1010/play/a045/index.m3u8
+
+#EXTINF:-1,TRUTV HD
+http://190.61.57.2:1010/play/a01u/index.m3u8
+
+#EXTINF:-1,TV+ HD
+http://190.61.57.2:1010/play/a04a/index.m3u8
+
+#EXTINF:-1,Teleantiokia
+http://190.61.57.2:1010/play/a04j/index.m3u8
+
+#EXTINF:-1,Telecafe
+http://190.61.57.2:1010/play/a036/index.m3u8
+
+#EXTINF:-1,Telecaribe
+http://190.61.57.2:1010/play/a034/index.m3u8
+
+#EXTINF:-1,Telepacifico
+http://190.61.57.2:1010/play/a04k/index.m3u8
+
+#EXTINF:-1,Tooncast
+http://190.61.57.2:1010/play/a04p/index.m3u8
+
+#EXTINF:-1,UNIVERSAL CHANEL HD
+http://190.61.57.2:1010/play/a01z/index.m3u8
+
+#EXTINF:-1,WARNER CHANEL HD
+http://190.61.57.2:1010/play/a019/index.m3u8
+
+#EXTINF:-1,WIN SPORTS HD
+http://190.61.57.2:1010/play/a01e/index.m3u8
+
+#EXTINF:-1,WIN SPORTS + HD
+http://190.61.57.2:1010/play/a03z/index.m3u8
+
+#EXTINF:-1,tu cable
+https://master.tucableip.com/abyayalatv/playlist.m3u8
+
+#EXTINF:-1,agenda minera
+https://srv.panelcast.net/amitel/amitel/playlist.m3u8
+
+#EXTINF:-1,atb la paz
+http://186.121.206.197/live/daniel/index.m3u8
+
+#EXTINF:-1,atbsantacruz
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1,BOLIVISION
+https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/playlist.m3u8
+
+#EXTINF:-1,CINERAMA
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+
+#EXTINF:-1,ERBOL
+https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8
+
+#EXTINF:-1,F10
+https://video.live.com.bo:3253/live/f10hdlive.m3u8
+
+#EXTINF:-1,FTV
+https://master.tucableip.com/ftv/index.m3u8
+
+#EXTINF:-1,PAT LA PAZ
+https://w8.redpat.tv:7777/play/120/index.m3u8
+
+#EXTINF:-1,DEPORTE TOTAL
+https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
+
+#EXTINF:-1,PAT SANTA CRUZ
+https://w8.redpat.tv:7777/play/110/index.m3u8
+
+#EXTINF:-1,SEO TV
+https://live.seo.tv.bo/live/1SEO.m3u8
+
+#EXTINF:-1,SEO NOVELAS
+https://live.seo.tv.bo/live/3SEO.m3u8
+
+#EXTINF:-1,SEO PELIS
+https://live.seo.tv.bo/live/4SEO.m3u8
+
+#EXTINF:-1,TROPICAL
+https://cloud3.streaminglivehd.com:1936/8068/8068/playlist.m3u8
+
+#EXTINF:-1,LATINA
+https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
+
+#EXTINF:-1,UNITEL SANTA CRUZ
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1,XTO
+http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar",24/7 Canal de Noticias (720p)
+https://panel.dattalive.com/6605140/6605140/playlist.m3u8
+
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar",24/7 Canal de Noticias (720p)
+https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar",A24 (1080p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+
+#EXTINF:-1 tvg-id="Am1020.ar",Am1020 (360p) [Geo-blocked]
+http://51.79.83.93:9998/live/am1020/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTV.ar",América TV (1080p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" user-agent="iPhone",América TV (720p)
+
+#EXTVLCOPT:http-user-agent=iPhone
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
+#EXTINF:-1 tvg-id="C5N.ar",C5N (1080p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+
+#EXTINF:-1 tvg-id="Canal3Formosa.ar",Canal 3 Formosa (720p)
+https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal10Cordoba.ar",Canal 10 Córdoba (1080p)
+https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal10Nortevision.ar",Canal 10 Nortevision (576p)
+https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar",Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar",Canal 26 (720p)
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar",Canal 26 (180p)
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar",Canal 26 (180p)
+http://live-edge02.telecentro.net.ar/live/c26.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalTDC.ar",CANAL TDC (1080p) [Not 24/7]
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CronicaTV.ar",Crónica TV (1080p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" user-agent="iPhone",Crónica TV (720p)
+#EXTVLCOPT:http-user-agent=iPhone
+https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiputadosTV.ar",Diputados TV (1080p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
+
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar",DirecTV Sports (480p) [Geo-blocked]
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+
+#EXTINF:-1 tvg-id="ElDoce.ar",El Doce (1080p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
+
+#EXTINF:-1 tvg-id="ElNueve.ar",El Nueve (1080p)
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+
+#EXTINF:-1 tvg-id="ElNueve.ar",El Nueve (1080p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece.ar",El Trece (1080p)
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="IPNoticias.ar",IP Noticias (1080p)
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+
+#EXTINF:-1 tvg-id="LaNacionPlus.ar",La Nación+ (720p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+
+#EXTINF:-1 tvg-id="NeoTV.ar",Neo TV (432p)
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-id="RadioMitre.ar",Radio Mitre (720p) [Not 24/7]
+https://live-05-13-mitre.vodgc.net/live-05-13-mitre.vodgc.net/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperClassicsTV.ar",Super Classics TV (360p)
+https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelefeCordoba.ar",Telefe Córdoba (1080p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar",A24 (1080p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#EXTINF:-1 tvg-id="A24.ar" user-agent="iPhone",A24 (720p)
+#EXTVLCOPT:http-user-agent=iPhone
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+
+#EXTINF:-1 tvg-id="TelefeInternacional.ar",Telefe Internacional (720p) [Not 24/7]
+https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8
+
+#EXTINF:-1 tvg-id="TN.ar",TN Todo Noticias (1080p)
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
+#EXTINF:-1 tvg-id="TN.ar",TN Todo Noticias (1080p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
+
+#EXTINF:-1 tvg-id="TVPublica.ar",TV Pública (TVP) (1080p) [Not 24/7]
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
