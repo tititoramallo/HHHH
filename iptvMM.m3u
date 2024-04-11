@@ -11,13 +11,13 @@ http://rasaiptv.com:8080/daniel63/654321/262707
 #EXTINF:-1,red uno la paz rasa
 http://rasaiptv.com:8080/daniel63/654321/262709
 
-#EXTINF:-1,CableNoticias
-http://190.61.57.2:1010/play/a04e/index.m3u8
+#EXTINF:-1,red uno cocha sd
+http://rasaiptv.com:8080/daniel63/654321/262712
 
-#EXTINF:-1,Caracol
-http://190.61.57.2:1010/play/a04z/index.m3u8
+#EXTINF:-1,unitel sta cruz hd
+http://rasaiptv.com:8080/daniel63/654321/262713
 
-#EXTINF:-1,Caracol HD
+#EXTINF:-1,unitel santa cruz sd
 http://190.61.57.2:1010/play/a02j/index.m3u8
 
 #EXTINF:-1,Cinecanal HD
