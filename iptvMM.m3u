@@ -8,7 +8,7 @@ http://190.61.57.2:1010/play/a023/index.m3u8
 #EXTINF:-1,AXN HD
 http://190.61.57.2:1010/play/a01a/index.m3u8
 
-#EXTINF:-1,CNN espa駉l
+#EXTINF:-1,CNN espa帽ol
 http://190.61.57.2:1010/play/a04o/index.m3u8
 
 #EXTINF:-1,CableNoticias
@@ -113,7 +113,7 @@ http://190.61.57.2:1010/play/a03b/index.m3u8
 #EXTINF:-1,STAR CHANEL HD
 http://190.61.57.2:1010/play/a02r/index.m3u8
 
-#EXTINF:-1,Se馻l Colombia
+#EXTINF:-1,Se帽al Colombia
 http://190.61.57.2:1010/play/a02a/index.m3u8
 
 #EXTINF:-1,Sony HD
@@ -183,7 +183,7 @@ http://186.121.206.197/live/daniel/index.m3u8
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1,BOLIVISION
-https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/playlist.m3u8
+http://rasaiptv.com:8080/daniel63/654321/262730
 
 #EXTINF:-1,CINERAMA
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
@@ -239,10 +239,10 @@ https://ythlsgo.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 #EXTINF:-1 tvg-id="Am1020.ar",Am1020 (360p) [Geo-blocked]
 http://51.79.83.93:9998/live/am1020/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AmericaTV.ar",Am閞ica TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="AmericaTV.ar",Am茅rica TV (1080p) [Not 24/7]
 https://ythlsgo.onrender.com/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 
-#EXTINF:-1 tvg-id="AmericaTV.ar" user-agent="iPhone",Am閞ica TV (720p)
+#EXTINF:-1 tvg-id="AmericaTV.ar" user-agent="iPhone",Am茅rica TV (720p)
 
 #EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
@@ -253,7 +253,7 @@ https://ythlsgo.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-id="Canal3Formosa.ar",Canal 3 Formosa (720p)
 https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal10Cordoba.ar",Canal 10 C髍doba (1080p)
+#EXTINF:-1 tvg-id="Canal10Cordoba.ar",Canal 10 C贸rdoba (1080p)
 https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal10Nortevision.ar",Canal 10 Nortevision (576p)
@@ -274,10 +274,10 @@ http://live-edge02.telecentro.net.ar/live/c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalTDC.ar",CANAL TDC (1080p) [Not 24/7]
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CronicaTV.ar",Cr髇ica TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="CronicaTV.ar",Cr贸nica TV (1080p) [Not 24/7]
 https://ythlsgo.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
-#EXTINF:-1 tvg-id="CronicaTV.ar" user-agent="iPhone",Cr髇ica TV (720p)
+#EXTINF:-1 tvg-id="CronicaTV.ar" user-agent="iPhone",Cr贸nica TV (720p)
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 
@@ -302,7 +302,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="IPNoticias.ar",IP Noticias (1080p)
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
-#EXTINF:-1 tvg-id="LaNacionPlus.ar",La Naci髇+ (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="LaNacionPlus.ar",La Naci贸n+ (720p) [Not 24/7]
 https://ythlsgo.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
 #EXTINF:-1 tvg-id="NeoTV.ar",Neo TV (432p)
@@ -314,7 +314,7 @@ https://live-05-13-mitre.vodgc.net/live-05-13-mitre.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-id="SuperClassicsTV.ar",Super Classics TV (360p)
 https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TelefeCordoba.ar",Telefe C髍doba (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="TelefeCordoba.ar",Telefe C贸rdoba (1080p) [Not 24/7]
 https://ythlsgo.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar",A24 (1080p) [Not 24/7]
@@ -332,5 +332,5 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-id="TN.ar",TN Todo Noticias (1080p) [Not 24/7]
 https://ythlsgo.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 
-#EXTINF:-1 tvg-id="TVPublica.ar",TV P鷅lica (TVP) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVPublica.ar",TV P煤blica (TVP) (1080p) [Not 24/7]
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
