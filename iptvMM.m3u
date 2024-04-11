@@ -5,11 +5,11 @@ https://www.dailymotion.com/cdn/live/video/x8vufvw.m3u8?sec=p46uCHQ0aqDqDnqCi7pc
 #EXTINF:-1,red uno La Paz
 https://www.dailymotion.com/cdn/live/video/x8vzlqi.m3u8?sec=oNIzIfxE7soBkYU5-9XyKk6wd6DJGjqEnWO-sU24hLoJx8hwzsEt7pA5aDFWVYwD&dmTs=126827&dmV1st=15081ea4-c0f8-4041-95ba-8fe403a38d4c
 
-#EXTINF:-1,AXN HD
-http://190.61.57.2:1010/play/a01a/index.m3u8
+#EXTINF:-1,red uno santa cruz rasa
+http://rasaiptv.com:8080/daniel63/654321/262707
 
-#EXTINF:-1,CNN español
-http://190.61.57.2:1010/play/a04o/index.m3u8
+#EXTINF:-1,red uno la paz rasa
+http://rasaiptv.com:8080/daniel63/654321/262709
 
 #EXTINF:-1,CableNoticias
 http://190.61.57.2:1010/play/a04e/index.m3u8
