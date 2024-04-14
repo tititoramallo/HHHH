@@ -47,20 +47,17 @@ http://restreamus.com:8080/iPortalTV/sBsHy6ryuutrr/265
 #EXTINF:-1,america
 http://restreamus.com:8080/iPortalTV/sBsHy6ryuutrr/266
 
-#EXTINF:-1,E! HD
-http://190.61.57.2:1010/play/a02d/index.m3u8
+#EXTINF:-1,tv publica
+http://restreamus.com:8080/iPortalTV/sBsHy6ryuutrr/268
 
-#EXTINF:-1,ESPN 2 HD
-http://190.61.57.2:1010/play/a01d/index.m3u8
+#EXTINF:-1,El nueve
+http://restreamus.com:8080/iPortalTV/sBsHy6ryuutrr/269
 
-#EXTINF:-1,ESPN 3 HD
-http://190.61.57.2:1010/play/a01n/index.m3u8
+#EXTINF:-1,cronica
+http://restreamus.com:8080/iPortalTV/sBsHy6ryuutrr/584
 
-#EXTVLCOPT:http-user-agent=iPhone
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
-
-#EXTINF:-1,ESPN 4 HD
-http://190.61.57.2:1010/play/a020/index.m3u8
+#EXTINF:-1,TN
+http://restreamus.com:8080/iPortalTV/sBsHy6ryuutrr/593
 
 #EXTINF:-1,ESPN EXTRA HD
 http://190.61.57.2:1010/play/a031/index.m3u8
