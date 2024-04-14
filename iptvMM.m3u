@@ -38,14 +38,14 @@ http://rasaiptv.com:8080/daniel63/654321/110292
 #EXTINF:-1,pat sta cruz
 https://w8.redpat.tv:7777/play/110/62731188.m3u8
 
-#EXTINF:-1,Disovery HD
-http://190.61.57.2:1010/play/a02t/index.m3u8
+#EXTINF:-1,a24 hq
+http://restreamus.com:8080/iPortalTV/sBsHy6ryuutrr/178
 
-#EXTINF:-1,Discovery Theater HD
-http://190.61.57.2:1010/play/a01y/index.m3u8
+#EXTINF:-1,el trece
+http://restreamus.com:8080/iPortalTV/sBsHy6ryuutrr/265
 
-#EXTINF:-1,Discovery world HD
-http://190.61.57.2:1010/play/a044/index.m3u8
+#EXTINF:-1,america
+http://restreamus.com:8080/iPortalTV/sBsHy6ryuutrr/266
 
 #EXTINF:-1,E! HD
 http://190.61.57.2:1010/play/a02d/index.m3u8
