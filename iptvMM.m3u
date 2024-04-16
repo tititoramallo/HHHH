@@ -62,8 +62,8 @@ http://restreamus.com:8080/iPortalTV/sBsHy6ryuutrr/593
 #EXTINF:-1,tigo 1 sd
 http://mastvplay.ddns.net:80/play/0-jwgevZjeGZHCKNBNsdQ4WyVKC2fYOliZRxbN197oQ/ts
 
-#EXTINF:-1,ESPN HD
-http://190.61.57.2:1010/play/a02c/index.m3u8
+#EXTINF:-1,la nacion +
+http://mastvplay.ddns.net:80/play/0-jwgevZjeGZHCKNBNsdQ74JnlVx1c3GGyxi4DOxHXo/ts
 
 #EXTINF:-1,El Gourmet HF
 http://190.61.57.2:1010/play/a01v/index.m3u8
