@@ -59,8 +59,8 @@ http://restreamus.com:8080/iPortalTV/sBsHy6ryuutrr/584
 #EXTINF:-1,TN
 http://restreamus.com:8080/iPortalTV/sBsHy6ryuutrr/593
 
-#EXTINF:-1,ESPN EXTRA HD
-http://190.61.57.2:1010/play/a031/index.m3u8
+#EXTINF:-1,tigo 1 sd
+http://mastvplay.ddns.net:80/play/0-jwgevZjeGZHCKNBNsdQ4WyVKC2fYOliZRxbN197oQ/ts
 
 #EXTINF:-1,ESPN HD
 http://190.61.57.2:1010/play/a02c/index.m3u8
