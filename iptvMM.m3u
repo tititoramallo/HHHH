@@ -122,8 +122,8 @@ http://190.61.57.2:1010/play/a01b/index.m3u8
 Studio Universal Hd
 http://190.61.57.2:1010/play/a027/index.m3u8
 
-#EXTINF:-1,TELEMUNDO
-http://190.61.57.2:1010/play/a04u/index.m3u8
+#EXTINF:-1,tyygo
+https://rasaiptv.com:8080/live/daniel63/654321/160820.ts
 
 #EXTINF:-1,TELENOVELAS
 http://190.61.57.2:1010/play/a04t/index.m3u8
