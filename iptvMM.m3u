@@ -72,7 +72,7 @@ http://190.61.57.2:1010/play/a01v/index.m3u8
 http://190.61.57.2:1010/play/a032/index.m3u8
 
 #EXTINF:-1,tygo
-http://169.197.142.124:8080/live/daniel63/654321/160820.ts
+https://rasaiptv.com:8080/live/daniel63/654321/160821.m3u8
 
 #EXTINF:-1,Fox Sports 1 HD
 http://190.61.57.2:1010/play/a04i/index.m3u8
