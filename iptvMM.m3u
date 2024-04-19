@@ -83,8 +83,8 @@ http://190.61.57.2:1010/play/a01o/index.m3u8
 #EXTINF:-1,France 24 HD
 http://190.61.57.2:1010/play/a040/index.m3u8
 
-#EXTINF:-1,Golden HD
-http://190.61.57.2:1010/play/a02b/index.m3u8
+#EXTINF:-1,gop
+http://169.197.142.227:8080/live/daniel63/654321/9.ts
 
 #EXTINF:-1,NTN 24hrs
 http://190.61.57.2:1010/play/a04h/index.m3u8
