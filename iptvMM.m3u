@@ -86,27 +86,6 @@ http://newlife3.wanicelife.com:8880/3ca04303n08/asfefd4wr34/65950
 #EXTINF:-1,gop
 http://169.197.142.227:8080/live/daniel63/654321/9.ts
 
-#EXTINF:-1,NTN 24hrs
-http://190.61.57.2:1010/play/a04h/index.m3u8
-
-#EXTINF:-1,Nat Geo HD
-http://190.61.57.2:1010/play/a043/index.m3u8
-
-#EXTINF:-1,Nick HD
-http://190.61.57.2:1010/play/a01h/index.m3u8
-
-#EXTINF:-1,Paramounth HD
-http://190.61.57.2:1010/play/a026/index.m3u8
-
-#EXTINF:-1,Pasiones
-http://190.61.57.2:1010/play/a047/index.m3u8
-
-#EXTINF:-1,RCN HD
-http://190.61.57.2:1010/play/a022/index.m3u8
-
-#EXTINF:-1,RCN SSD
-http://190.61.57.2:1010/play/a03b/index.m3u8
-
 #EXTINF:-1,STAR CHANEL HD
 http://190.61.57.2:1010/play/a02r/index.m3u8
 
@@ -258,18 +237,6 @@ https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar",Canal 26 (720p)
 http://200.115.193.177/live/26hd-720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal26.ar",Canal 26 (720p)
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal26.ar",Canal 26 (180p)
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal26.ar",Canal 26 (180p)
-http://live-edge02.telecentro.net.ar/live/c26.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CanalTDC.ar",CANAL TDC (1080p) [Not 24/7]
-https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CronicaTV.ar",Crónica TV (1080p) [Not 24/7]
 https://ythlsgo.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
