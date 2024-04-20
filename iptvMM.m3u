@@ -80,8 +80,8 @@ http://190.61.57.2:1010/play/a04i/index.m3u8
 #EXTINF:-1,Fox Sports 3
 http://190.61.57.2:1010/play/a01o/index.m3u8
 
-#EXTINF:-1,France 24 HD
-http://190.61.57.2:1010/play/a040/index.m3u8
+#EXTINF:-1,bolivision new
+http://newlife3.wanicelife.com:8880/3ca04303n08/asfefd4wr34/65950
 
 #EXTINF:-1,gop
 http://169.197.142.227:8080/live/daniel63/654321/9.ts
