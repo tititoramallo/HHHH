@@ -5,7 +5,7 @@ http://rasaiptv.com:8080/daniel63/654321/262707
 #EXTINF:-1,red uno la paz rasa
 http://rasaiptv.com:8080/daniel63/654321/262709
 
-#EXTINF:-1 tvg-logo=https://images.app.goo.gl/wewicJ7C27jwkmcR7, red uno cocha sd
+#EXTINF:-1 tvg-id="" tvg-logo=https://images.app.goo.gl/wewicJ7C27jwkmcR7.png, red uno cocha sd
 http://rasaiptv.com:8080/daniel63/654321/262712
 
 #EXTINF:-1,unitel sta cruz hd
