@@ -130,8 +130,8 @@ https://video.live.com.bo:3253/live/f10hdlive.m3u8
 #EXTINF:-1,FTV
 https://master.tucableip.com/ftv/index.m3u8
 
-#EXTINF:-1,PAT LA PAZ
-https://w8.redpat.tv:7777/play/120/index.m3u8
+#EXTINF:-1,red unoo
+http://visualservice.xyz:8080/live/JoseMore/WMQbP2Q/67454.m3u8
 
 #EXTINF:-1,DEPORTE TOTAL
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
