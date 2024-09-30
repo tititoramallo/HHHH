@@ -143,8 +143,8 @@ https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
 #EXTINF:-1,UNITEL SANTA CRUZ
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1,XTO
-http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
+#EXTINF:-1,bolivision org
+https://d2e599a9ekjlc5.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar",24/7 Canal de Noticias (720p)
 https://panel.dattalive.com/6605140/6605140/playlist.m3u8
@@ -169,8 +169,8 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 #EXTINF:-1 tvg-id="C5N.ar",C5N (1080p) [Not 24/7]
 https://ythlsgo.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 
-#EXTINF:-1 tvg-id="Canal3Formosa.ar",Canal 3 Formosa (720p)
-https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
+#EXTINF:-1, pat org
+https://w8.redpat.tv:7777/play/110/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar",Canal 10 Córdoba (1080p)
 https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
