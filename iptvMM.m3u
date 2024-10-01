@@ -146,8 +146,8 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/ind
 #EXTINF:-1,bolivision org
 https://d2e599a9ekjlc5.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar",24/7 Canal de Noticias (720p)
-https://panel.dattalive.com/6605140/6605140/playlist.m3u8
+#EXTINF:-1,red uno ili
+http://stklatino.dynns.com:2082/live/restreamJRX200/VnGWupVNjG3L/76492.ts
 
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar",24/7 Canal de Noticias (720p)
 https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8
