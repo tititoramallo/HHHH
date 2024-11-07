@@ -8,11 +8,11 @@ http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/276174
 #EXTINF:-1,red uno op1
 http://spacetvplay.com:8080/live/CUENTAPREMIUNS36/HEJAC/215004.ts
 
-#EXTINF:-1,AMC HD
-http://181.78.86.226:8086/play/a05y
+#EXTINF:-1,pat op 1 
+http://spacetvplay.com:8080/live/CUENTAPREMIUNS36/HEJAC/21995.ts
 
-#EXTINF:-1,AXN HD
-http://181.78.86.226:8086/play/a04i
+#EXTINF:-1,bolivision op1 
+http://spacetvplay.com:8080/live/CUENTAPREMIUNS36/HEJAC/215005.ts
 
 #EXTINF:-1,Adult Swim HD
 http://181.78.86.226:8086/play/a05a
