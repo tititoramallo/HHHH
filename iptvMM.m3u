@@ -18,13 +18,10 @@ http://spacetvplay.com:8080/live/CUENTAPREMIUNS36/HEJAC/215005.ts
 http://spacetvplay.com:8080/live/CUENTAPREMIUNS36/HEJAC/501844.ts
 
 #EXTINF:-1,America TV HD
-http://181.78.86.226:8086/play/a06l
 
-#EXTINF:-1,Animal Planet HD
-http://181.78.86.226:8086/play/a069
 
 #EXTINF:-1,unitel nxt
-http://nxt.plus:8080/live/cablestream/uSgBFYRL78sA/242100.ts
+http://nxt.plus:8080/live/cablestream/uSgBFYRL78sA/242100.m3u
 
 #EXTINF:-1,CHV HD
 http://181.78.86.226:8086/play/a04w
