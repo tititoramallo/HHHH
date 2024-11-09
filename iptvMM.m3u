@@ -23,8 +23,8 @@ http://181.78.86.226:8086/play/a06l
 #EXTINF:-1,Animal Planet HD
 http://181.78.86.226:8086/play/a069
 
-#EXTINF:-alguito
-http://23.236.235.132:23455/live/cyx-8C6BDF0C4CAE997477C83D04A365.m3u8
+#EXTINF:-1,unitel nxt
+http://ch5.tdpsr.fyi:8080/live/cablestream/uSgBFYRL78sA/242100.ts
 
 #EXTINF:-1,CHV HD
 http://181.78.86.226:8086/play/a04w
